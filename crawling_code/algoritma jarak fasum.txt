@@ -1,0 +1,43 @@
+┌─────────────────────────────────────────────────────────────┐
+│ INPUT: 3000+ rumah × 15 kategori fasilitas                  │
+└─────────────────────────────────────────────────────────────┘
+                            │
+                            ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PREPROCESSING (1x saja)                                     │
+│ • Map koordinat rumah → Node jalan OSM                      │
+│ • Map koordinat fasilitas → Node jalan OSM                  │
+│   Menggunakan: ox.distance.nearest_nodes()                  │
+└─────────────────────────────────────────────────────────────┘
+                            │
+                            ▼
+┌─────────────────────────────────────────────────────────────┐
+│ LOOP: Untuk setiap kategori (SD, Mall, Terminal, dll)       │
+└─────────────────────────────────────────────────────────────┘
+                            │
+                ┌───────────┴───────────┐
+                ▼                       ▼
+    ┌──────────────────────┐  ┌──────────────────────┐
+    │ TAHAP 1: BallTree    │  │ Filter fasilitas     │
+    │ • Cari 1 fasilitas   │  │ berdasarkan kategori │
+    │   terdekat geometris │  │ (misal: hanya SD)    │
+    │ • O(log n)           │  └──────────────────────┘
+    │ • Output: indeks     │
+    └──────────────────────┘
+                │
+                ▼
+    ┌──────────────────────┐
+    │ TAHAP 2: Dijkstra    │
+    │ • Hitung jarak jalan │
+    │   dari node rumah    │
+    │   ke node fasilitas  │
+    │ • O((V+E) log V)     │
+    │ • Output: meter      │
+    └──────────────────────┘
+                │
+                ▼
+    ┌──────────────────────┐
+    │ Simpan ke kolom:     │
+    │ dist_SD,             │
+    │ dist_Mall, dll       │
+    └──────────────────────┘
