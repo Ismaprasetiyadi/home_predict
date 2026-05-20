@@ -1,0 +1,649 @@
+name,amenity,latitude,longitude,category_group,brand,tourism,highway,railway,public_transport,shop,leisure,sport,aeroway,barrier,kategori_spesifik
+SD Negeri Sidodadi 1,school,-7.3825261,112.6469591,sekolah,,,,,,,,,,,SD
+SDN Kragan,school,-7.4092182,112.7449026,sekolah,,,,,,,,,,,SD
+SDN Sumorame 1,school,-7.4929302,112.7050033,sekolah,,,,,,,,,,,SD
+SDN Karang Tanjung,school,-7.4885226,112.6943612,sekolah,,,,,,,,,,,SD
+SMPN 5 Sidoarjo,school,-7.4477979,112.7215238,sekolah,,,,,,,,,,,SMP
+Poltekkes Surabaaya,school,-7.4493683,112.7059237,sekolah,,,,,,,,,,,Universitas
+SMPN 3 Sidoarjo,school,-7.4571094,112.7231024,sekolah,,,,,,,,,,,SMP
+SDN Gedangan,school,-7.3884647,112.7308089,sekolah,,,,,,,,,,,SD
+SMP Darma Wanita I,school,-7.3907258,112.7276416,sekolah,,,,,,,,,,,SMA/SMK
+SDN Kebonsikep I,school,-7.3900123,112.7263739,sekolah,,,,,,,,,,,SD
+SDN Masangan Wetan,school,-7.3924623,112.6960831,sekolah,,,,,,,,,,,SD
+SDN Sukodono 1,school,-7.4014181,112.6726926,sekolah,,,,,,,,,,,SD
+SDN Pekarungan,school,-7.405162,112.6705773,sekolah,,,,,,,,,,,SD
+SMP Negeri 1 Sukodono,school,-7.4148243,112.6798838,sekolah,,,,,,,,,,,SMP
+SDN Klagen,school,-7.4194823,112.6621393,sekolah,,,,,,,,,,,SD
+SDN Kebonagung II,school,-7.421126,112.6731017,sekolah,,,,,,,,,,,SD
+SMP / SMA Insan Cendekia Mandiri,school,-7.4303204,112.6815464,sekolah,,,,,,,,,,,SMA/SMK
+SDN Cemengkalang,school,-7.4420813,112.686283,sekolah,,,,,,,,,,,SD
+SMPK Untung Suropati,school,-7.4471306,112.7097538,sekolah,,,,,,,,,,,SMP
+SMP / MA / SMK Walisongo,school,-7.4574532,112.7233785,sekolah,,,,,,,,,,,SMA/SMK
+Sekolah Anak Bangsa Indonesia,kindergarten,-7.4507466,112.7170531,sekolah,,,,,,,,,,,TK
+SDN Bulang,school,-7.489373,112.596994,sekolah,,,,,,,,,,,SD
+SMK YPM 1 Taman,school,-7.3500569,112.6903265,sekolah,,,,,,,,,,,SMA/SMK
+SMP YPM 1 Taman ( Area 1 ),school,-7.3491934,112.6887371,sekolah,,,,,,,,,,,SMP
+SMK YPM 2 Taman,school,-7.3506975,112.6903947,sekolah,,,,,,,,,,,SMA/SMK
+SMA Wachid Hasyim 2 YPM,school,-7.3498706,112.6907723,sekolah,,,,,,,,,,,SMA/SMK
+SD Kristen Petra 13,school,-7.3405051,112.7762123,sekolah,,,,,,,,,,,SD
+PAUD TK BUNDA,kindergarten,-7.3435666,112.7790645,sekolah,,,,,,,,,,,TK
+SMP Negeri 2 Gedangan,school,-7.4029492,112.7011884,sekolah,,,,,,,,,,,SMP
+Kampus Utama Politeknik Kelautan dan Perikanan Sidoarjo,university,-7.3975874,112.7898868,sekolah,,,,,,,,,,,Universitas
+SMP YPM 1 Taman ( Area 2 ),school,-7.3491021,112.6881973,sekolah,,,,,,,,,,,SMP
+SMK YPM 3 Taman,school,-7.3505378,112.6902607,sekolah,,,,,,,,,,,SMA/SMK
+Perpustakaan YPM,school,-7.3501113,112.6906611,sekolah,,,,,,,,,,,Lainnya
+SMA Wachid Hasyim 2 YPM,school,-7.350537,112.6907577,sekolah,,,,,,,,,,,SMA/SMK
+Graha YPM,school,-7.3499491,112.6911976,sekolah,,,,,,,,,,,Lainnya
+SMP Negeri 2 Buduran,school,-7.4239526,112.6971086,sekolah,,,,,,,,,,,SMP
+SMA Muhammadiyah 1 Taman Sidoarjo,school,-7.3472442,112.7019418,sekolah,,,,,,,,,,,SMA/SMK
+SMPN 1 Taman,school,-7.3469179,112.7041225,sekolah,,,,,,,,,,,SMP
+SD Muhammadiyah 2 Sidoarjo,school,-7.4569012,112.7156954,sekolah,,,,,,,,,,,SD
+SMP Negeri 1 Candi,school,-7.4692792,112.7170846,sekolah,,,,,,,,,,,SMP
+SMP Muhammadiyah 2 Taman,school,-7.3442066,112.6965397,sekolah,,,,,,,,,,,SMP
+SD Katolik Untung Suropati Sidoarjo II Yayasan Yohanes Gabriel Sidoarjo,school,-7.44722,112.7096911,sekolah,,,,,,,,,,,SD
+SMA Hang Tuah 2 Sidoarjo,school,-7.3683883,112.7295814,sekolah,,,,,,,,,,,SMA/SMK
+TK Katolik Santo Yusup Yayasan Yohanes Gabriel Santo Yusup Sidoarjo,kindergarten,-7.3550415,112.7558188,sekolah,,,,,,,,,,,TK
+SD Katolik Santo Yusup Yayasan Yohanes Gabriel Santo Yusup Sidoarjo,school,-7.3549893,112.7558267,sekolah,,,,,,,,,,,SD
+Lembaga Pendidikan Islam Zainuddin Waru,school,-7.3524145,112.7576767,sekolah,,,,,,,,,,,Lainnya
+SD Al Falah Darussalam Tropodo,school,-7.3553832,112.7619278,sekolah,,,,,,,,,,,SD
+SMP PGRI 9 Sidoarjo,school,-7.4464831,112.6914921,sekolah,,,,,,,,,,,SMP
+SMK Senopati,school,-7.3955981,112.7627095,sekolah,,,,,,,,,,,SMA/SMK
+SMK YPM 8 Sidoarjo,school,-7.4233177,112.6812763,sekolah,,,,,,,,,,,SMA/SMK
+Pusdik Sabhara,university,-7.542491,112.6976055,sekolah,,,,,,,,,,,Universitas
+SDN Bligo,school,-7.475104,112.7219621,sekolah,,,,,,,,,,,SD
+MI Roudlotul Huda,school,-7.4745062,112.7319628,sekolah,,,,,,,,,,,SD
+SDIT Insan Kamil,school,-7.4698024,112.7244495,sekolah,,,,,,,,,,,SD
+SMPIT Insan Kamil Sidoarjo,school,-7.4696763,112.7242346,sekolah,,,,,,,,,,,SMP
+TKIT INSAN KAMIL,school,-7.4693459,112.7246501,sekolah,,,,,,,,,,,Lainnya
+SMK TELKOM SIDOARJO,school,-7.4665361,112.7247999,sekolah,,,,,,,,,,,SMA/SMK
+SDN Sekardangan,school,-7.4644393,112.7248408,sekolah,,,,,,,,,,,SD
+SDN Gebang 1,school,-7.4689582,112.7306068,sekolah,,,,,,,,,,,SD
+SD Islam Wahid Hasyim,school,-7.4640747,112.7218193,sekolah,,,,,,,,,,,SD
+SMA Negeri 3 Sidoarjo,school,-7.4624088,112.7223622,sekolah,,,,,,,,,,,SMA/SMK
+SMP PGRI 16 Sidoarjo,school,-7.4565719,112.7222936,sekolah,,,,,,,,,,,SMP
+SMP Negeri 6 Sidoarjo,school,-7.4515743,112.7363552,sekolah,,,,,,,,,,,SMP
+SMA Antartika Sidoarjo,school,-7.4318871,112.7266967,sekolah,,,,,,,,,,,SMA/SMK
+SMK Antartika 1 Sidoarjo,school,-7.43331,112.7310071,sekolah,,,,,,,,,,,SMA/SMK
+SDN Klurak,school,-7.4814802,112.7295988,sekolah,,,,,,,,,,,SD
+SD Negeri Candi,school,-7.4790361,112.7157772,sekolah,,,,,,,,,,,SD
+SD Muhammadiyah 1 Sedati,school,-7.3781865,112.7594689,sekolah,,,,,,,,,,,SD
+SMA Negeri 1 Sidoarjo,school,-7.435365037538306,112.72209235516027,sekolah,,,,,,,,,,,SMA/SMK
+SMP Negeri 1 Sidoarjo,school,-7.4428515633972285,112.70621093271795,sekolah,,,,,,,,,,,SMP
+Sekolah Anak Bangsa Indonesia,kindergarten,-7.450817182757442,112.71703367760556,sekolah,,,,,,,,,,,TK
+SMA Muhammadiyah 2 Sidoarjo,school,-7.465907040374904,112.71765682935445,sekolah,,,,,,,,,,,SMA/SMK
+Universitas Muhammadiyah Sidoarjo,university,-7.467031662952779,112.71716848456205,sekolah,,,,,,,,,,,Universitas
+SMA Negeri 2 Sidoarjo,school,-7.461515731363353,112.70389142692954,sekolah,,,,,,,,,,,SMA/SMK
+SMPN 2 Wonoayu,school,-7.413492178785758,112.64229308862323,sekolah,,,,,,,,,,,SMP
+SDN Becirongengor,school,-7.414155823296346,112.64271140437364,sekolah,,,,,,,,,,,SD
+TK Bisma,kindergarten,-7.340743711649404,112.74310008541264,sekolah,,,,,,,,,,,TK
+SMP Negeri 1 Gedangan,school,-7.398801493163769,112.7341253787815,sekolah,,,,,,,,,,,SMP
+"SD, SMP, SMA Pembangunan Jaya 2",school,-7.3922701318959225,112.73505756972084,sekolah,,,,,,,,,,,SMA/SMK
+SDIT El Haq,school,-7.4135930994760715,112.74119410528488,sekolah,,,,,,,,,,,SD
+Pondok Pesantren Al Fatah,school,-7.412660236363857,112.73951955325664,sekolah,,,,,,,,,,,Lainnya
+SDN Tebel,school,-7.4076252301147,112.72619004724723,sekolah,,,,,,,,,,,SD
+SMKN 1 Buduran,school,-7.434241751463881,112.72204250202759,sekolah,,,,,,,,,,,SMA/SMK
+SMKN 3 Buduran,school,-7.433999979418291,112.723342040615,sekolah,,,,,,,,,,,SMA/SMK
+SMKN 2 Buduran,school,-7.436809451146895,112.72292191522313,sekolah,,,,,,,,,,,SMA/SMK
+SDN Banjarsari,school,-7.411799687343977,112.74273713631298,sekolah,,,,,,,,,,,SD
+SDN Gemurung,school,-7.405454518701672,112.74684317336624,sekolah,,,,,,,,,,,SD
+SDN 1 Punggul,school,-7.399347204761906,112.73166629650794,sekolah,,,,,,,,,,,SD
+MAN Sidoarjo,school,-7.437161242774404,112.72353584439225,sekolah,,,,,,,,,,,Lainnya
+SDN Sedati Agung,school,-7.3839002519658745,112.76202996525093,sekolah,,,,,,,,,,,SD
+SMPN 1 Tanggulangin,school,-7.509119427376245,112.6968363648361,sekolah,,,,,,,,,,,SMP
+SMP - SMA Progresif Bumi Sholawat,school,-7.45098039320733,112.66425164159583,sekolah,,,,,,,,,,,SMA/SMK
+SMPN 1 Buduran,school,-7.4212566874666726,112.72676556686761,sekolah,,,,,,,,,,,SMP
+MINU Pucang,school,-7.443073866707376,112.72011259583675,sekolah,,,,,,,,,,,Lainnya
+SMKN 1 Sidoarjo,school,-7.4519868817329,112.72366369135064,sekolah,,,,,,,,,,,SMA/SMK
+SMPN 4 Sidoarjo,school,-7.446287499678899,112.68320532750384,sekolah,,,,,,,,,,,SMP
+SMAN 4 Sidoarjo,school,-7.44698295,112.68520124999999,sekolah,,,,,,,,,,,SMA/SMK
+Universitas PGRI Delta,university,-7.435537316012145,112.72846580275022,sekolah,,,,,,,,,,,Universitas
+SDN 1 Pucang,school,-7.443809566297171,112.71895619211834,sekolah,,,,,,,,,,,SD
+SDN Pucang 4,school,-7.444752347393856,112.71855545494768,sekolah,,,,,,,,,,,SD
+SDN 3 Pucang,school,-7.445028727626134,112.71874241671648,sekolah,,,,,,,,,,,SD
+SD Negeri Pepelegi 1,school,-7.366578293636093,112.72341185043248,sekolah,,,,,,,,,,,SD
+SD Negeri Pepelegi 2,school,-7.3630595829923635,112.71934395125962,sekolah,,,,,,,,,,,SD
+SDN Kebonsikep 2,school,-7.387733293424616,112.72217052347774,sekolah,,,,,,,,,,,SD
+SD Raudhatul Jannah,school,-7.363231571170164,112.71893702564354,sekolah,,,,,,,,,,,SD
+SMP Raudhatul Jannah,school,-7.364392893276902,112.71848913260297,sekolah,,,,,,,,,,,SMP
+SDN Wage II,school,-7.369409884275655,112.70647810836591,sekolah,,,,,,,,,,,SD
+SMP Negeri 1 Waru,school,-7.34901770182704,112.7536883230529,sekolah,,,,,,,,,,,SMP
+TK Cita Mandiri,school,-7.421928157237804,112.59260162477811,sekolah,,,,,,,,,,,TK
+SDK St Yustinus de Yacobis,school,-7.412936618819739,112.57830921639511,sekolah,,,,,,,,,,,Lainnya
+SMP Negeri 1 Krian,school,-7.410599188979599,112.57365316182188,sekolah,,,,,,,,,,,SMP
+SD Negeri 2 Trosobo,school,-7.378090676780911,112.63039834985915,sekolah,,,,,,,,,,,SD
+TK Dharma Wanita Sumput,kindergarten,-7.434361181636726,112.6853238760419,sekolah,,,,,,,,,,,SMA/SMK
+Madrasah Ibtidaiyah Nahdlatul Ulama (MINU) Sumput,school,-7.438240083693461,112.68298849759961,sekolah,,,,,,,,,,,SMA/SMK
+SDN Sumput,school,-7.435041708473455,112.68521794817121,sekolah,,,,,,,,,,,SD
+KOMPLEKS SEKOLAH,school,-7.462503788572171,112.64930550655919,sekolah,,,,,,,,,,,Lainnya
+SLB BINA BANGSA,school,-7.348812655057004,112.69068418494821,sekolah,,,,,,,,,,,Lainnya
+SMA Al-Islam Krian,school,-7.416095100000001,112.58320079999999,sekolah,,,,,,,,,,,SMA/SMK
+SMA Al-Islam Krian,school,-7.415752649999999,112.58314715000002,sekolah,,,,,,,,,,,SMA/SMK
+SMA Al-Islam Krian,school,-7.415868350000001,112.5831619,sekolah,,,,,,,,,,,SMA/SMK
+SMA Al-Islam Krian,school,-7.4158059000000005,112.5829956,sekolah,,,,,,,,,,,SMA/SMK
+SMA Al-Islam Krian,school,-7.4161237,112.58331480000001,sekolah,,,,,,,,,,,SMA/SMK
+SMA Al-Islam Krian,school,-7.41586575,112.58344015,sekolah,,,,,,,,,,,SMA/SMK
+SMA Al-Islam Krian,school,-7.416098449999999,112.58362389999998,sekolah,,,,,,,,,,,SMA/SMK
+SMA Al-Islam Krian,school,-7.416296801394936,112.5833981721581,sekolah,,,,,,,,,,,SMA/SMK
+SMA Negeri 1 Waru,school,-7.354888850000001,112.7582823,sekolah,,,,,,,,,,,SMA/SMK
+SMPN 2 Waru,school,-7.353422434973057,112.75952067563087,sekolah,,,,,,,,,,,SMP
+SMP Islam Sidoarjo,school,-7.451106991440094,112.71151732264049,sekolah,,,,,,,,,,,SMP
+SD Cendekia Sidoarjo,school,-7.466288579487035,112.71453240391001,sekolah,,,,,,,,,,,SD
+SMK Antartika 2 Sidoarjo,school,-7.433442900000001,112.72570805000001,sekolah,,,,,,,,,,,SMA/SMK
+MTS Negeri 1 Sidoarjo,school,-7.440256008863396,112.72968862736325,sekolah,,,,,,,,,,,SMP
+SMA Negeri Olahraga Jawa Timur,school,-7.438798009365497,112.7030484133088,sekolah,,,,,,,,,,,SMA/SMK
+SDN Pucang 2 Sidoarjo,school,-7.444701049999999,112.7188032,sekolah,,,,,,,,,,,SD
+Yayasan Al Muslim Wadungasri,school,-7.345697997122254,112.76946752770145,sekolah,,,,,,,,,,,Lainnya
+SMP Negeri 3 Waru,school,-7.3604003155475795,112.72982253213199,sekolah,,,,,,,,,,,SMP
+Universitas Maarif Hasyim Latif,university,-7.349512768346114,112.68884622546256,sekolah,,,,,,,,,,,Universitas
+Yayasan Paratha Bhakti,school,-7.466613592336172,112.74460763694961,sekolah,,,,,,,,,,,Lainnya
+TK Kristen Petra 13,kindergarten,-7.3413750122909835,112.7761293326559,sekolah,,,,,,,,,,,TK
+SD Kristen Petra 13,school,-7.340646680273674,112.77625146205905,sekolah,,,,,,,,,,,SD
+Sekolah Kristen Petra Acitya,school,-7.351361711634649,112.78921602212618,sekolah,,,,,,,,,,,TK
+UMAHA University Ngelom,university,-7.349468624984572,112.68855821442197,sekolah,,,,,,,,,,,Universitas
+Paud Ar-Rohmah,kindergarten,-7.439445242379422,112.70958272792953,sekolah,,,,,,,,,,,TK
+SMP/SMK Sepuluh Nopember Sidoarjo,school,-7.432184249335728,112.72420492770604,sekolah,,,,,,,,,,,SMA/SMK
+Universitas Sunan Giri,university,-7.348667846854747,112.73479027294681,sekolah,,,,,,,,,,,Universitas
+SDN SURUH,school,-7.407412192898971,112.68329408760815,sekolah,,,,,,,,,,,SD
+SDN Gisik Cemandi,school,-7.3896585106006745,112.80565715911575,sekolah,,,,,,,,,,,SD
+STAI Taruna Surabaya,college,-7.346270875174439,112.79789960386341,sekolah,,,,,,,,,,,Universitas
+SD Negeri Sawocangkring,school,-7.415509577385224,112.65229755741419,sekolah,,,,,,,,,,,SD
+MIS Roudlotul Islamiyah,school,-7.41774710690274,112.6517214692526,sekolah,,,,,,,,,,,Lainnya
+MTs HIDAYATUL MUTA`ALLIMIIN,school,-7.4192971224842355,112.65134124789168,sekolah,,,,,,,,,,,SMP
+Singapore National Academy,school,-7.367801190710236,112.72538530236092,sekolah,,,,,,,,,,,Lainnya
+SDN Banjarkemantren 2,school,-7.41494331297825,112.71734600414958,sekolah,,,,,,,,,,,SD
+SMA Negeri Olahraga Jawa Timur,school,-7.438327868895881,112.70267329745654,sekolah,,,,,,,,,,,SMA/SMK
+SMP Islam Al-Azhar 54,school,-7.429383701165052,112.69265941920783,sekolah,,,,,,,,,,,SMP
+SD Muhammadiyah 4 Zamzam,school,-7.416744512756824,112.68989341354262,sekolah,,,,,,,,,,,SD
+Sekolah Insan Cendekia Mandiri,school,-7.430827730898515,112.6825965460541,sekolah,,,,,,,,,,,Lainnya
+MA Bilingual Muslimat NU,school,-7.431513589338016,112.72348894654971,sekolah,,,,,,,,,,,SMA/SMK
+IAI Al-Khoziny,college,-7.428827199179663,112.72699171282952,sekolah,,,,,,,,,,,Universitas
+Lembaga Pesantren Al-Khoziny,school,-7.428062744489783,112.72403001766223,sekolah,,,,,,,,,,,Lainnya
+Lembaga Pesantren Putri Al-Khoziny,school,-7.427639612903427,112.7242232189119,sekolah,,,,,,,,,,,Lainnya
+IAI Al-Khoziny,college,-7.42722868040175,112.7249036279918,sekolah,,,,,,,,,,,Universitas
+Pondok Pesantren Putri Darussalam Al-Khoziny,school,-7.428607968542395,112.72475121278148,sekolah,,,,,,,,,,,Lainnya
+kampus 2 umsida,university,-7.490937167686059,112.71068546470144,sekolah,,,,,,,,,,,Universitas
+Kompleks Sekolah Yayasan Wachid Hasjim Sedati,school,-7.379069579158388,112.7618872921564,sekolah,,,,,,,,,,,Lainnya
+Puskesmas Gedangan,hospital,-7.3870658,112.7282712,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Klinik Bds Tebel,hospital,-7.4050624,112.7267153,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+KLINIK DR. TITUT HARNANIK,hospital,-7.3877756,112.7178459,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Rumah Sakit DKT Sidoarjo,hospital,-7.4446167,112.7166296,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Puskesmas Sidoarjo,hospital,-7.4445803,112.7155906,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RSIA Arafah Anwar Medika Sukodono,hospital,-7.3940264,112.672984,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RS Assakinah Medika,hospital,-7.4143721,112.6745462,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Puskesmas Urangagung,hospital,-7.4419765,112.68597,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Apotek K 24,pharmacy,-7.4495838,112.7091251,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Kimia Farma,pharmacy,-7.3779569,112.7628845,kesehatan,Kimia Farma,,,,,,,,,,Fasilitas Kesehatan
+Rumah Sakit Mitra Keluarga,hospital,-7.3446267,112.7754245,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Apotek Sejati Jaya,pharmacy,-7.5391122,112.6814222,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Apotek Yani,pharmacy,-7.4650701,112.7169894,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Apotek Rejeki,pharmacy,-7.4653706,112.7174125,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Puskesmas Sidodadi,hospital,-7.4603003,112.6874444,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RS. Citra Medika,hospital,-7.4331082,112.4635899,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RSIA Mitra Husada,hospital,-7.401129,112.7268937,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Klinik Citra Husada,clinic,-7.4380745,112.701139,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Puskesmas Waru,clinic,-7.3544931,112.7559717,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RS. Bhayangkara Pusdik,hospital,-7.5423087,112.6986249,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Apotek Orange,pharmacy,-7.4749728,112.7229352,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Puskesmas Sekardangan,hospital,-7.4641291,112.7227569,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Rumah Sakit Umum Jasem,hospital,-7.4591997,112.7218706,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Dokter Martini Husni,clinic,-7.4803017,112.7308008,kesehatan,,,,,,,,,,,Minimarket
+Rumah Sakit Umum Daerah Sidoarjo,hospital,-7.465235564842106,112.71563899084451,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Rumah Sakit Delta Surya,hospital,-7.447132873662951,112.70147578610437,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Puskesmas Sukodono,hospital,-7.412877476731782,112.6745112297146,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Almira Medika,clinic,-7.383335872381918,112.76214253080103,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Area Parkir Sakit Umum Al-Islam HM Mawardi,hospital,-7.4175068608381345,112.58376734987218,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RS IBU DAN ANAK SOERYA,hospital,-7.35220156181858,112.69176223217397,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RSIA Kirana,hospital,-7.349094285503566,112.69184695025683,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Klinik Medis Gelora,clinic,-7.449618617639399,112.70370942201251,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Kimia Farma,pharmacy,-7.374020810090985,112.70838466918941,kesehatan,Kimia Farma,,,,,,,,,,Fasilitas Kesehatan
+RSU Prima Husada Waru,hospital,-7.352870816766635,112.76619842747854,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RS Bunda Sidoarjo,hospital,-7.351620400000001,112.77071240000001,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Rumah Sakit Bersalin,hospital,-7.345418656690765,112.7790780411738,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Rumah Sakit Islam Siti Hajar,hospital,-7.457632736505011,112.72192333333587,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Rumah Sakit Mitra Keluarga Waru,hospital,-7.362810364350964,112.72864656016336,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Rumah Sakit Siti Khodijah Sepanjang,hospital,-7.3448476182083535,112.69886998673641,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+RS MATA FATMA,hospital,-7.352964026903208,112.69129346439038,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+KLINIK DR JAMILAH,hospital,-7.352756783636756,112.69124415402193,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Apotek K24,pharmacy,-7.37710634143101,112.70720882243008,kesehatan,,,,,,,,,,,Fasilitas Kesehatan
+Waru,,-7.3526552,112.7294182,transportasi,,,,station,station,,,,,,Stasiun
+Sidoarjo,,-7.4557844,112.7128405,transportasi,,,,stop,stop_position,,,,,,Halte
+Buduran,,-7.4277784,112.722965,transportasi,,,,halt,,,,,,,Lainnya
+Gedangan,,-7.3889859,112.7285913,transportasi,,,,station,station,,,,,,Stasiun
+Boharan,,-7.3879686,112.6192723,transportasi,,,,station,station,,,,,,Stasiun
+Kedinding,,-7.4376838,112.5516808,transportasi,,,,station,station,,,,,,Stasiun
+Krian,,-7.4097377,112.5866604,transportasi,,,,station,station,,,,,,Stasiun
+Tulangan,,-7.4655613,112.6510185,transportasi,,attraction,,station,station,,,,,,Stasiun
+Terminal Krian,bus_station,-7.4113604,112.5826673,transportasi,,,,,,,,,,,Terminal
+Pagerwojo,,-7.441987,112.7152792,transportasi,,,,halt,,,,,,,Lainnya
+Terminal Larangan,bus_station,-7.466635,112.7124738,transportasi,,,bus_stop,,platform,,,,,,Terminal
+Sidoarjo,,-7.4575864,112.7125336,transportasi,,,,stop,stop_position,,,,,,Halte
+Sidoarjo,,-7.4567712,112.7126786,transportasi,,,,station,station,,,,,,Stasiun
+Sidoarjo,,-7.4557794,112.7127926,transportasi,,,,stop,stop_position,,,,,,Halte
+Sidoarjo,,-7.4576,112.7126273,transportasi,,,,stop,stop_position,,,,,,Halte
+Sidoarjo,,-7.4557752,112.7127451,transportasi,,,,stop,stop_position,,,,,,Halte
+Sawotratap,,-7.3684018,112.7292952,transportasi,,,,halt,,,,,,,Lainnya
+Banjarkemantren,,-7.4116971,112.7261573,transportasi,,,,halt,,,,,,,Lainnya
+Boharan,,-7.3886205,112.6179536,transportasi,,,,stop,stop_position,,,,,,Halte
+Tarik,,-7.4595218,112.5187765,transportasi,,,,station,station,,,,,,Stasiun
+Tanggulangin,,-7.5063765,112.708044,transportasi,,,,stop,stop_position,,,,,,Halte
+Terminal Purabaya,bus_station,-7.3507901,112.724726,transportasi,,,,,station,,,,,,Terminal
+Kedinding,,-7.436649,112.5529812,transportasi,,,,stop,stop_position,,,,,,Halte
+Krian,,-7.4105513,112.5855211,transportasi,,,,stop,stop_position,,,,,,Halte
+Krian,,-7.409184,112.5874454,transportasi,,,,stop,stop_position,,,,,,Halte
+Boharan,,-7.3875702,112.6200861,transportasi,,,,stop,stop_position,,,,,,Halte
+Kedinding,,-7.4381246,112.5511108,transportasi,,,,stop,stop_position,,,,,,Halte
+Tarik,,-7.4593607,112.5189156,transportasi,,,,stop,stop_position,,,,,,Halte
+Sepanjang,,-7.3474873,112.6971555,transportasi,,,,stop,stop_position,,,,,,Halte
+Sepanjang,,-7.3464149,112.6995429,transportasi,,,,stop,stop_position,,,,,,Halte
+Sepanjang,,-7.3469403,112.6983661,transportasi,,,,station,station,,,,,,Stasiun
+Gedangan,,-7.3883701,112.7286838,transportasi,,,,stop,stop_position,,,,,,Halte
+Gedangan,,-7.3892886,112.7285903,transportasi,,,,stop,stop_position,,,,,,Halte
+Waru,,-7.3530692,112.7293842,transportasi,,,,stop,stop_position,,,,,,Halte
+Waru,,-7.3521359,112.7294464,transportasi,,,,stop,stop_position,,,,,,Halte
+Sidoarjo,,-7.4575927,112.7125846,transportasi,,,,stop,stop_position,,,,,,Halte
+Tarik,,-7.4595314,112.5209453,transportasi,,,,stop,stop_position,,,,,,Halte
+Tarik,,-7.4595166,112.5183025,transportasi,,,,stop,stop_position,,,,,,Halte
+Tarik,,-7.4596194,112.5193241,transportasi,,,,stop,stop_position,,,,,,Halte
+Kumendung,,-7.3703701,112.6528563,transportasi,,,,,station,,,,,,Lainnya
+Tanggulangin,,-7.5068966,112.708077,transportasi,,,,station,station,,,,,,Stasiun
+Porong,,-7.5383909,112.7017616,transportasi,,,,station,station,,,,,,Stasiun
+Tulangan,,-7.4655979,112.6515694,transportasi,,,,stop,stop_position,,,,,,Halte
+Tulangan,,-7.4655477,112.6505283,transportasi,,,,stop,stop_position,,,,,,Halte
+Waru,,-7.352132,112.7293886,transportasi,,,,stop,stop_position,,,,,,Halte
+Sidoarjo,,-7.4557733,112.7126874,transportasi,,,,stop,stop_position,,,,,,Halte
+Sidoarjo,,-7.4576087,112.712672,transportasi,,,,stop,stop_position,,,,,,Halte
+Tanggulangin,,-7.5073255,112.7080412,transportasi,,,,stop,stop_position,,,,,,Halte
+Porong,,-7.5380209,112.7018369,transportasi,,,,stop,stop_position,,,,,,Halte
+Porong,,-7.5387266,112.701639,transportasi,,,,stop,stop_position,,,,,,Halte
+Redbus lounge,bus_station,-7.3521424,112.7165982,transportasi,,,,,,,,,,,Terminal
+Terminal Purabaya,bus_station,-7.350865967766708,112.7247166524244,transportasi,,,,,station,,,,,,Terminal
+Indomaret,,-7.3648783,112.7338581,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.3648623,112.7336891,belanja,,,,,,convenience,,,,,Minimarket
+Hero Sidoarjo,,-7.4493933,112.7049174,belanja,,,,,,supermarket,,,,,Supermarket
+Alfa Mart,,-7.388149,112.7208325,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3884657,112.7180985,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.5362863,112.7003907,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.5412661,112.6989488,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.5413923,112.6990033,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3793998,112.762304,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.4262845,112.6937793,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.5358267,112.6847433,belanja,,,,,,convenience,,,,,Minimarket
+Alfamidi,,-7.3793347,112.7624983,belanja,Alfamidi,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.3734496,112.7586354,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3746882,112.7630412,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4086756,112.5835274,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret Durungbedug,,-7.4608621,112.6695572,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4191702,112.6934765,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4181864,112.6936798,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.5399559,112.6843134,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3982183,112.7028519,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.342869,112.7554211,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3511691,112.7744262,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.353783,112.7231649,belanja,,,,,,convenience,,,,,Minimarket
+Circle K,,-7.374978,112.7929889,belanja,Circle K,,,,,convenience,,,,,Minimarket
+Green mart,,-7.4621406,112.6914659,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.460515,112.6867254,belanja,,,,,,supermarket,,,,,Supermarket
+Indomaret,,-7.4114572,112.5365045,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4146654,112.5151711,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3746879,112.6370878,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3753038,112.6368269,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3865747,112.6091635,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.430195,112.4733944,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3650876,112.6657115,belanja,,,,,,convenience,,,,,Minimarket
+Abnisa Minimarket 1,,-7.4136579,112.541087,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.4109168,112.5349753,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3789027,112.6268387,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4026333,112.5698636,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.398611,112.5788374,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.4252911,112.4813946,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4500079,112.7301288,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Ramayana Department Store Mall Sidoarjo,,-7.4511322,112.7141921,belanja,,,,,,mall,,,,,Mall
+Suncity Plaza,,-7.4494863,112.711765,belanja,,,,,,mall,,,,,Mall
+Indomaret Raya Jenggolo Timur,,-7.4392797,112.7204657,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret Ahmad Yani,,-7.4460362,112.7190346,belanja,,,,,,convenience,,,,,Minimarket
+Superindo - Jenggolo,,-7.4406957,112.7202803,belanja,,,,,,supermarket,,,,,Supermarket
+Indomaret,,-7.4984253,112.6970442,belanja,,,,,,convenience,,,,,Minimarket
+Toko Kaca TrijayaGlass,,-7.4620235,112.7361974,belanja,,,,,,supermarket,,,,,Supermarket
+Pasar Baru Porong,,-7.5387857,112.6964878,belanja,,,,,,supermarket,,,,,Supermarket
+Toko Karunia,,-7.3788058,112.7016505,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.3771306,112.7067772,belanja,Alfamart,,,,,convenience,,,,,Minimarket
+Andismart,,-7.4002932,112.7287941,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4257073,112.6935935,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart Rawan Bligo,,-7.4750716,112.7241237,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret Jalan Raya Bligo,,-7.473401,112.7157129,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3555813,112.7279091,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3525409,112.7193779,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3794143,112.6071624,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.3773349,112.6133914,belanja,Alfamart,,,,,convenience,,,,,Minimarket
+Indomaret Point,,-7.3508356,112.7246791,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4059338,112.6728866,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4748074,112.7234024,belanja,,,,,,convenience,,,,,Minimarket
+Toko Bu Tutik,,-7.470703,112.7165179,belanja,,,,,,convenience,,,,,Minimarket
+MINI MARKET INSAN KAMIL,,-7.4695521,112.7247065,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.4640434,112.7233109,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.4642236,112.7230861,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret Gebang Raya,,-7.4680736,112.7267546,belanja,,,,,,convenience,,,,,Minimarket
+Alfamidi Gebang Sekardangan,,-7.4675045,112.72618,belanja,,,,,,convenience,,,,,Minimarket
+Greensmart Heavenland,,-7.4813704,112.7261656,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret + ATM mandiri,,-7.3506213,112.7373695,belanja,,,,,,supermarket,,,,,Supermarket
+Indomaret + ATM mandiri,,-7.3746947,112.6942046,belanja,,,,,,supermarket,,,,,Supermarket
+Superindo,,-7.3669172,112.7274996,belanja,Super Indo,,,,,supermarket,,,,,Supermarket
+Indomaret,,-7.3520614,112.7873892,belanja,,,,,,convenience,,,,,Minimarket
+Giant Supermarket Pondok Tjandra,,-7.341831152712901,112.76855772853544,belanja,,,,,,supermarket,,,,,Supermarket
+Minipreço,,-7.34415905,112.77810594999998,belanja,Minipreço,,,,,supermarket,,,,,Supermarket
+Minipreço,,-7.343937282504547,112.77235505708525,belanja,Minipreço,,,,,supermarket,,,,,Supermarket
+Unimas District,,-7.366476872756354,112.72786265492884,belanja,,,,,,mall,,,,,Mall
+Mal Sidoarjo,,-7.451449362316864,112.7144792085223,belanja,,,,,,mall,,,,,Mall
+Sun City Mall,,-7.449053937467672,112.7113151024271,belanja,,,,,,mall,,,,,Mall
+Lippo Plaza Sidoarjo,,-7.446038725341486,112.69826273709819,belanja,,,,,,mall,,,,,Mall
+Lotte Mart,,-7.3697260275572045,112.72694358877126,belanja,Lotte Mart,,,,,supermarket,,,,,Supermarket
+Superindo,,-7.395806770198541,112.72973926892887,belanja,,,,,,supermarket,,,,,Supermarket
+Alfamart,,-7.409632176243815,112.74456776740874,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart Jatisari,,-7.3644322101548045,112.71474700774012,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret Pepelegi,,-7.366804109908375,112.72490405077497,belanja,,,,,,convenience,,,,,Minimarket
+Sinar Rejeki,,-7.366858244627645,112.71380272475136,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.362340155966832,112.72900740185952,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart Pepelegi Indah,,-7.367650848798315,112.72306660972735,belanja,,,,,,convenience,,,,,Minimarket
+Circle K,,-7.359313343873797,112.72883547847273,belanja,Circle K,,,,,convenience,,,,,Minimarket
+Alfamart Stasiun Waru,,-7.352824689677944,112.72927567404885,belanja,,,,,,convenience,,,,,Stasiun
+Alfa Midi,,-7.388779629170963,112.71788014121003,belanja,,,,,,convenience,,,,,Minimarket
+Superindo Supermarket Tropodo,,-7.3593645,112.7640447,belanja,,,,,,supermarket,,,,,Supermarket
+Transmart Sidoarjo,,-7.4397834482086695,112.71499528194954,belanja,,,,,,mall,,,,,Mall
+Alfamart,,-7.414889995111082,112.7005507769811,belanja,Alfamart,,,,,supermarket,,,,,Supermarket
+Indomaret,,-7.378503299999999,112.7012109,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.378769777559002,112.70146691620236,belanja,Alfamart,,,,,convenience,,,,,Minimarket
+Minipreço,,-7.344290730272678,112.77472562721205,belanja,Minipreço,,,,,supermarket,,,,,Supermarket
+Ramayana Department Store Bungurasih,,-7.351614533799826,112.72233340038306,belanja,,,,,,mall,,,,,Mall
+Minipreço,,-7.344892257494756,112.77770352229912,belanja,Minipreço,,,,,supermarket,,,,,Supermarket
+Minipreço,,-7.344828400000001,112.77732465,belanja,Minipreço,,,,,supermarket,,,,,Supermarket
+Palapa Toserba Sepanjang,,-7.350024743900359,112.69295411355468,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.356165562386102,112.69073395737244,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.40952095,112.70000495000001,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Toko Madura,,-7.411439850000001,112.70011815000001,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.4013152438929115,112.70138908002698,belanja,Alfamart,,,,,supermarket,,,,,Supermarket
+Indomaret,,-7.388099491570461,112.72783252887865,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.415388020640925,112.70080372009669,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Alfamidi,,-7.35163788781619,112.69184335722572,belanja,Alfamidi,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.349562008999412,112.71281694162302,belanja,,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.3811095547900445,112.70367339898979,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret,,-7.373381800000001,112.70882739999999,belanja,Indomaret,,,,,convenience,,,,,Minimarket
+Indomaret Dr Wahidin,,-7.460402052821053,112.72312346946967,belanja,,,,,,convenience,,,,,Minimarket
+Alfamart,,-7.4602843000000005,112.72321540000003,belanja,Alfamart,,,,,convenience,,,,,Minimarket
+Prima Mart,,-7.380798237576838,112.76189867792118,belanja,,,,,,convenience,,,,,Minimarket
+Raudhatul Jannah,place_of_worship,-7.4131047,112.6355838,ibadah,,,,,,,,,,,Tempat Ibadah
+Al Ukhuwah,place_of_worship,-7.3998078,112.6762065,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushollah,place_of_worship,-7.4072001,112.7377047,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Nurus Asafi'i,place_of_worship,-7.4100971,112.7454962,ibadah,,,,,,,,,,,Tempat Ibadah
+Pesantren Al Chusnain,place_of_worship,-7.396,112.6917702,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Nurul Yaqin,place_of_worship,-7.4430059,112.7048392,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Jannatin,place_of_worship,-7.377607,112.7339176,ibadah,,,,,,,,,,,Tempat Ibadah
+Gereja Katolik Santo Paulus,place_of_worship,-7.3795027,112.7375673,ibadah,,,,,,,,,,,Tempat Ibadah
+MASJID DARUL MUTTAQIN,place_of_worship,-7.349167,112.6904633,ibadah,,,,,,,,,,,Tempat Ibadah
+Gereja Kristen Indonesia,place_of_worship,-7.3404533,112.7768715,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Jabal An-Nur,place_of_worship,-7.4417154,112.7266464,ibadah,,,,,,,,,,,Tempat Ibadah
+Pondok Pesantren Salafiyah DARUL FALAH 42,place_of_worship,-7.3483338,112.7809273,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Muhajirin,place_of_worship,-7.3989975,112.7354386,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-ikhlas,place_of_worship,-7.4502648,112.7297652,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Hikmah,place_of_worship,-7.4395839,112.5775283,ibadah,,,,,,,,,,,Tempat Ibadah
+Langgar Sabilunnajah,place_of_worship,-7.3780864,112.650968,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Ar Rahmah,place_of_worship,-7.5076379,112.7110608,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Hidayatul Muttaqien,place_of_worship,-7.3866495,112.714633,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Nasrulloh,place_of_worship,-7.3712226,112.7262683,ibadah,,,,,,,,,,,Tempat Ibadah
+Babus Salam,place_of_worship,-7.4145446,112.6409972,ibadah,,,,,,,,,,,Tempat Ibadah
+Baitut Taqwa,place_of_worship,-7.4161608,112.6370208,ibadah,,,,,,,,,,,Tempat Ibadah
+Al Kautsar,place_of_worship,-7.4156602,112.644965,ibadah,,,,,,,,,,,Tempat Ibadah
+Al-Bajuri,place_of_worship,-7.4540704,112.673173,ibadah,,,,,,,,,,,Tempat Ibadah
+Mi'atul Hasanah,place_of_worship,-7.4540862,112.6719301,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid,place_of_worship,-7.4757978,112.7306084,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid NUR ROCHMAN (LDII),place_of_worship,-7.4701296,112.7346552,ibadah,,,,,,,,,,,Tempat Ibadah
+MUSHOLLA WAKAF AR-RUUM,place_of_worship,-7.4754496,112.7278959,ibadah,,,,,,,,,,,Tempat Ibadah
+MASJID IMADUDDIN (LDII),place_of_worship,-7.4704469,112.7174085,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Cordoba Sidoarjo,place_of_worship,-7.469925,112.7241498,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Nurul Huda (LDII),place_of_worship,-7.482214,112.7365471,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Ikhlas Desa Bligo,place_of_worship,-7.475378,112.7181878,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Pabrik Gula Candi,place_of_worship,-7.4773703,112.7147711,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Mubarok,place_of_worship,-7.4669836,112.7211187,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Baitussalam Sekardangan,place_of_worship,-7.4643878,112.7235299,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al - Haq MCG Bligo,place_of_worship,-7.4734519,112.7232614,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Kamboja,place_of_worship,-7.4112588,112.7457653,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla,place_of_worship,-7.4081745,112.7396603,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla At Thoibin,place_of_worship,-7.4755541,112.7246105,ibadah,,,,,,,,,,,Tempat Ibadah
+MASJID AL-BADAR PECANTINGAN SEKARDANGAN,place_of_worship,-7.4652436,112.725657,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Darus Salam,place_of_worship,-7.4697383,112.72096,ibadah,,,,,,,,,,,Tempat Ibadah
+MASJID AL KHOIROM,place_of_worship,-7.4722792,112.7212541,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla,place_of_worship,-7.4643854,112.721479,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Raudhotul Muttaqin,place_of_worship,-7.4716425,112.7306355,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Baitul Muttaqien,place_of_worship,-7.4732315,112.7275956,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushollah Hidayatul Muttaqien,place_of_worship,-7.4758331,112.7270491,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Al-Amin,place_of_worship,-7.4275009,112.7246102,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Baitul Muttaqin,place_of_worship,-7.4594065,112.6836884,ibadah,,,,,,,,,,,Tempat Ibadah
+MASJID JAMI' DELTASARI,place_of_worship,-7.3612951,112.7398822,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Fajri,place_of_worship,-7.3507116183879075,112.78845256367522,ibadah,,,,,,,,,,,Tempat Ibadah
+i,place_of_worship,-7.344240258911278,112.76878851877916,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Agung Sidoarjo,place_of_worship,-7.445849596507679,112.71649425689762,ibadah,,,,,,,,,,,Tempat Ibadah
+Gereja Salib Suci,place_of_worship,-7.356124972875943,112.75826200636956,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Baitul Muttaqin,place_of_worship,-7.437656149999999,112.7163353,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Falah,place_of_worship,-7.461790949999999,112.70934405000001,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Muhajirin,place_of_worship,-7.464628841681372,112.70827637129406,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Hidayatullah,place_of_worship,-7.463492736890506,112.70992067605128,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid SMA Muhammadiyah 2 Sidoarjo,place_of_worship,-7.466445894184932,112.7173270314343,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Raya Baiturrahman Jati,place_of_worship,-7.4456357,112.69533284999999,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid At-Taqwa,place_of_worship,-7.373358474817589,112.79150006809337,ibadah,,,,,,,,,,,Tempat Ibadah
+GPIB Bethesda,place_of_worship,-7.447214022597092,112.72102926504498,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Ar-Raudha,place_of_worship,-7.384802529802049,112.71759332935959,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Bahar,place_of_worship,-7.383219394594193,112.72746996534318,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Hidayah,place_of_worship,-7.388231206431098,112.72762752620412,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Arroudhah,place_of_worship,-7.391949187892232,112.75955637134133,ibadah,,,,,,,,,,,Tempat Ibadah
+Al-Ittihad,place_of_worship,-7.353977001599938,112.73800665253222,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Sidokare,place_of_worship,-7.46700058215362,112.702011128571,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Ikhlas,place_of_worship,-7.342026040854411,112.77712141413375,ibadah,,,,,,,,,,,Tempat Ibadah
+Gereja Kristen Indonesia,place_of_worship,-7.340477619517438,112.77687664800058,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Salahudin,place_of_worship,-7.389237358257815,112.73275434091504,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Kragan,place_of_worship,-7.409581579526741,112.74598293918577,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid At-Taqwa,place_of_worship,-7.363485722961526,112.7120506700069,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Firdaus,place_of_worship,-7.36786896425622,112.72310848163897,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Mujahirin,place_of_worship,-7.364418213921149,112.72467430757101,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Ar-Rahmah,place_of_worship,-7.362401936869715,112.71553342106091,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushola At-Taqwa,place_of_worship,-7.365823643845469,112.7143993200186,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Subulus Salam,place_of_worship,-7.364233198356754,112.71205850075712,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Jami' Darussalam,place_of_worship,-7.363286912516039,112.71676099235478,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid islahunnahdliyyin,place_of_worship,-7.364800682178226,112.72185667178411,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al- Ilham,place_of_worship,-7.365594919552922,112.70526254833786,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushola Al-Muhyiddin,place_of_worship,-7.362716900561846,112.70627069068242,ibadah,,,,,,,,,,,Tempat Ibadah
+Gereja Baptis Indonesia Waru,place_of_worship,-7.362722299999999,112.7289963,ibadah,,,,,,,,,,,Tempat Ibadah
+Gereja Bethel Indonesia Kristus Air Hidup,place_of_worship,-7.367890622960191,112.72226980365447,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Raudlatul Jannah,place_of_worship,-7.362901319291537,112.71898450762244,ibadah,,,,,,,,,,,Tempat Ibadah
+Gereja Bethany Krian,place_of_worship,-7.418179873033646,112.57667617994242,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Mansyur,place_of_worship,-7.378894645443137,112.70520942956583,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Mubarok,place_of_worship,-7.38949725310065,112.71779602470005,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Daarul Ulum,place_of_worship,-7.389363478610771,112.72412005274249,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Ikrom Diponegoro,place_of_worship,-7.36905774991505,112.70798212888549,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid An Nur,place_of_worship,-7.34524040691286,112.75591936588694,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Ad-Dakwah,place_of_worship,-7.344473160488792,112.75320064689127,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Ihayul Qulub,place_of_worship,-7.422406997432091,112.59441797078826,ibadah,,,,,,,,,,,Tempat Ibadah
+GSJPDI Sabda Hayat,place_of_worship,-7.41235560772475,112.57836392153456,ibadah,,,,,,,,,,,Tempat Ibadah
+Catholic Church Santa Monika,place_of_worship,-7.412733101296113,112.5783219831269,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Saiful Mukmin,place_of_worship,-7.393257204860659,112.71120843491072,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Muhajirin,place_of_worship,-7.401307124132299,112.7458445675558,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla,place_of_worship,-7.46567486763315,112.79569844165032,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Mujahadah,place_of_worship,-7.4895962468723765,112.59622276281996,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Babussalam,place_of_worship,-7.456763903791853,112.67961921816153,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Amin,place_of_worship,-7.454630806885318,112.67685647046049,ibadah,,,,,,,,,,,Tempat Ibadah
+Roudhotul Jannah,place_of_worship,-7.437496861950774,112.68312943610073,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushollah Baitus Salam,place_of_worship,-7.436337091656592,112.68400194312603,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushollah Al Mubarokah,place_of_worship,-7.434920814757661,112.68419642129247,ibadah,,,,,,,,,,,Tempat Ibadah
+MASJID JAMI' MODONG,place_of_worship,-7.458127289635308,112.64876765713092,ibadah,,,,,,,,,,,Tempat Ibadah
+MASJID BAITURROCHMAN,place_of_worship,-7.458369958215028,112.65483560590033,ibadah,,,,,,,,,,,Tempat Ibadah
+"Masjid Al Ikhlas, Taman Athena",place_of_worship,-7.394389340772699,112.73221316857901,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Nurul Iman`,place_of_worship,-7.3752434000000004,112.75500989999999,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Ar Ridho,place_of_worship,-7.376261868096771,112.76275115705714,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid At Tabiin,place_of_worship,-7.3798880067653885,112.76037106997936,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Mutaqin,place_of_worship,-7.4386991545950885,112.70840566880469,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla,place_of_worship,-7.4128410402113545,112.70087782738281,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushollah Kiai Idris,place_of_worship,-7.411321499999999,112.70081364999999,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Darussalam Berbek,place_of_worship,-7.344511249999999,112.76416350000001,ibadah,,,,,,,,,,,Tempat Ibadah
+GBI Narwastu Mujizat,place_of_worship,-7.341271299999999,112.76949369999998,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Baitullah Bungurasih,place_of_worship,-7.350484649999999,112.72692835000001,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Da'watul Falah,place_of_worship,-7.3476590391201775,112.77567291222188,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Masholich,place_of_worship,-7.356530513406992,112.68955242646292,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid An-Nur Taman Permata Indah,place_of_worship,-7.354878545632471,112.68945335386772,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Ash-Shiddiq,place_of_worship,-7.354295561785535,112.69135081960097,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Istiqomah,place_of_worship,-7.358165867990827,112.68902530554575,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushollah,place_of_worship,-7.4075103,112.70023225,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Ihsan,place_of_worship,-7.406950698547025,112.73564884634563,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid At Taqwa,place_of_worship,-7.424067172617369,112.7365306604386,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Al Ikhlas,place_of_worship,-7.420206728207016,112.6482969558155,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Muhajirin,place_of_worship,-7.420695100000001,112.64696194999999,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Anwar Chusnuddin,place_of_worship,-7.417408299999997,112.64759070000001,ibadah,,,,,,,,,,,Tempat Ibadah
+Miftahul Jannah,place_of_worship,-7.413948706151189,112.63797887236777,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Jalan Kayun,place_of_worship,-7.418709100000001,112.6509088,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Dusun Sawo,place_of_worship,-7.417699399999999,112.65019895,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Baitur Rokhim,place_of_worship,-7.4233881,112.65146745,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla RT 16 Sawocangkring,place_of_worship,-7.423831100000002,112.64998684999999,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla RT,place_of_worship,-7.421295018831049,112.65163115061297,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla RT 17,place_of_worship,-7.420846102873071,112.64943096918824,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Darul Barokah,place_of_worship,-7.419626546303243,112.65104108047765,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla At-Taqwa,place_of_worship,-7.419594599999999,112.64965144999998,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushola,place_of_worship,-7.410729904110207,112.74257421961502,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Hikmah,place_of_worship,-7.394991498045727,112.7695986278986,ibadah,,,,,,,,,,,Tempat Ibadah
+Ispat Indo,place_of_worship,-7.354362014714538,112.70420132532037,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Ikhlas,place_of_worship,-7.425265282099762,112.76808545736888,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Furqon,place_of_worship,-7.425966550000001,112.7692296,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholah Safinatul Arkab,place_of_worship,-7.428095899999999,112.7726974,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholah Nurul Islam,place_of_worship,-7.425915399999999,112.77128174999999,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholah Nurudholam,place_of_worship,-7.428047013729562,112.76962901168737,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Muttaqin,place_of_worship,-7.426771722388299,112.76971668496289,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushola Putri,place_of_worship,-7.409237690567815,112.74265655708011,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushola Kragan,place_of_worship,-7.408901953760774,112.74217519861108,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla PLN,place_of_worship,-7.355745366546401,112.69096199265839,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla,place_of_worship,-7.39706468963703,112.682227605941,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Furqon,place_of_worship,-7.442363314665537,112.72275321079255,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al-Ikhlash,place_of_worship,-7.362785225679694,112.73354139540395,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Ar Rahmah,place_of_worship,-7.507637900000001,112.71110085000001,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Nurul Huda,place_of_worship,-7.394198049999999,112.80739510000001,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Sabilul Muttaqin,place_of_worship,-7.416489856801746,112.65126822095225,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Kahfi,place_of_worship,-7.4165206999999995,112.6485075,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla Baitul Musta'in,place_of_worship,-7.416555349999999,112.65375474999999,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla RT 11,place_of_worship,-7.421540643833293,112.64665129298774,ibadah,,,,,,,,,,,Tempat Ibadah
+Musholla,place_of_worship,-7.419792054625269,112.64646032048644,ibadah,,,,,,,,,,,Tempat Ibadah
+SMP Negeri 2 Wonoayu,place_of_worship,-7.413326045061804,112.6419742872364,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Nurul Ghina,place_of_worship,-7.459535667357278,112.7231352490316,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Al Huda,place_of_worship,-7.370025210122024,112.73190440874218,ibadah,,,,,,,,,,,Tempat Ibadah
+Mushollah Al Abror,place_of_worship,-7.380233978196052,112.76108931418732,ibadah,,,,,,,,,,,Tempat Ibadah
+Masjid Roudhotul Mukminin,place_of_worship,-7.364933357445626,112.80749322206891,ibadah,,,,,,,,,,,Tempat Ibadah
+Tulangan,,-7.4655613,112.6510185,fasilitas_umum,,attraction,,station,station,,,,,,Stasiun
+Under The Cherry Tree,,-7.4042626,112.5746898,fasilitas_umum,,,,,,,park,,,,Taman
+Citra Garden Waterpark,,-7.4373394,112.6978472,fasilitas_umum,,,,,,,water_park,,,,TK
+"Taman Paris Blok B, Puri Surya Jaya",,-7.3903152,112.7318937,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Pinang Indah,,-7.4550512,112.706425,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Vancouver,,-7.3935142,112.735074,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Athena,,-7.3936354,112.7325283,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Boston,,-7.3972058,112.7346998,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Sidney,,-7.3973215,112.7331964,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Valencia,,-7.399155,112.7453098,fasilitas_umum,,,,,,,park,,,,Taman
+Evoush ( PT. Pieneleng Indah Cemerlang ),,-7.4608382,112.7403742,fasilitas_umum,,,,,,,park,,,,Taman
+Pendopo Alun-Alun Sidoarjo,,-7.4453608,112.7178658,fasilitas_umum,,,,,,,park,,,,Taman
+Alun-Alun Sidoarjo,,-7.4461567,112.717725,fasilitas_umum,,,,,,,park,,,,Taman
+Jogging Track Alun-Alun Sidoarjo,,-7.4465729,112.7172951,fasilitas_umum,,,,,,,park,,,,Taman
+TPST,,-7.4864672,112.7044478,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Bermain,,-7.4189096,112.6937604,fasilitas_umum,,,,,,,playground,,,,Taman
+JSI Park,,-7.3802513,112.6097829,fasilitas_umum,,,,,,,park,,,,Taman
+Taman,,-7.4729527,112.7237691,fasilitas_umum,,,,,,,park,,,,Taman
+Taman GPH,,-7.4720183,112.7289075,fasilitas_umum,,,,,,,park,,,,Taman
+Pulau Lusi,,-7.566151,112.8699205,fasilitas_umum,,,,,,,park,,,,Taman
+menara futsal,,-7.34679280544548,112.76852772400589,fasilitas_umum,,,,,,,sports_centre,australian_football,,,TK
+Alun-Alun Sidoarjo,,-7.446122540937855,112.71787375903737,fasilitas_umum,,,,,,,park,,,,Taman
+Sun City Waterpark,,-7.449163582631894,112.7129059468893,fasilitas_umum,,,,,,,swimming_pool,,,,Lainnya
+Gelora Delta Sidoarjo,,-7.447753114322697,112.70584687150928,fasilitas_umum,,,,,,,stadium,,,,TK
+Lapangan Sepakbola Kapasan,,-7.460203118606926,112.70725054682734,fasilitas_umum,,,,,,,park,,,,Taman
+Lapangan Ngelom,,-7.348028505685604,112.68945895039096,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+Stadion Jenggolo,,-7.4366058105274915,112.72187100244335,fasilitas_umum,,,,,,,stadium,,,,Stadion
+Lapangan Jenggolo,,-7.388850767266038,112.73158807830146,fasilitas_umum,,,,,,,stadium,soccer,,,Stadion
+Alun-Alun Wage,,-7.3686046615511485,112.70630531545099,fasilitas_umum,,,,,,,park,,,,Taman
+Lapangan Perseka Muda,,-7.349665769442238,112.75355959352913,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+Taman Pejayah Anugrah,,-7.379833679850926,112.62958825378536,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Abirama,,-7.4414239149629555,112.70499196787816,fasilitas_umum,,,,,,,park,,,,Taman
+Lapangan Sumput,,-7.434464599050044,112.68690220162405,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+TAMAN APKASI,,-7.537578611815272,112.70096054421275,fasilitas_umum,,,,,,,park,,,,Taman
+GUNUNG SEWU,,-7.414124916331459,112.54884830277173,fasilitas_umum,,,,,,,sports_centre,,,,Stadion
+ARENA FUTSAL,,-7.35073978852234,112.68965886067042,fasilitas_umum,,,,,,,sports_centre,soccer,,,Stadion
+Gedung Basket / Bulu Tangkis,,-7.447067463982028,112.70707208593382,fasilitas_umum,,,,,,,sports_centre,,,,Stadion
+Banjarsari Farmland,,-7.4108583003218556,112.7419329511178,fasilitas_umum,,,,,,,park,,,,Taman
+Apo Tropodo mini park,,-7.357045069146274,112.76470704918255,fasilitas_umum,,,,,,,park,,,,Taman
+Bundaran Rewwin Park -Jogging Track-,,-7.345088980136636,112.75350768357698,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Perumahan Makarya Binangun Indah,,-7.41981905049834,112.72656885892133,fasilitas_umum,,,,,,,park,,,,Taman
+Cluster Boston Park with Mosque,,-7.399003995275661,112.73541580317222,fasilitas_umum,,,,,,,park,,,,Taman
+Lembre Zone Park,,-7.3505623778275195,112.76524498490129,fasilitas_umum,,,,,,,park,,,,Taman
+GOR Jogging Track,,-7.447796711778566,112.70658215190869,fasilitas_umum,,,,,,,park,,,,Stadion
+Pondok Tjandra Indah Sports Club,,-7.352070339195765,112.7846078597371,fasilitas_umum,,,,,,,sports_centre,,,,TK
+Lapangan Jumputrejo,,-7.410354148441142,112.69725678845838,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+Taman Bunderan Gerbang Perumahan Taman Dhika,,-7.426494764477174,112.70897343930177,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Gazebo Juanda,,-7.380918195431669,112.7557868638139,fasilitas_umum,,,,,,,park,,,,Bandara
+Taman Kauman Gebang,,-7.349910197988055,112.76707627423977,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Dan Masjid,,-7.3479102412202595,112.77027694787104,fasilitas_umum,,,,,,,park,,,,Tempat Ibadah
+Pranti Green Zone,,-7.367388864590545,112.78170873017764,fasilitas_umum,,,,,,,park,,,,Taman
+Lapangan Bola Pranti,,-7.367922822496612,112.78141650535693,fasilitas_umum,,,,,,,park,,,,Taman
+Waru test green Zone,,-7.354247148691986,112.7724363330569,fasilitas_umum,,,,,,,park,,,,Taman
+Banjarsari Farmland 2,,-7.411382760202285,112.74361295733691,fasilitas_umum,,,,,,,park,,,,Taman
+Pertelon green Zone,,-7.350774833353538,112.75982787885444,fasilitas_umum,,,,,,,park,,,,Taman
+Natura Park Area,,-7.434971139211498,112.72636288509334,fasilitas_umum,,,,,,,park,,,,TK
+Green Zone Tropodo,,-7.356210197317212,112.75836326722953,fasilitas_umum,,,,,,,park,,,,Taman
+Lapangan Tropodo,,-7.359158201489345,112.75889348813136,fasilitas_umum,,,,,,,park,,,,Taman
+Candi Pari Site,,-7.516093110405536,112.68334858323524,fasilitas_umum,,,,,,,park,,,,Taman
+"Yussar Playground, WIsata Kuda, Restaurant",,-7.5141743243154835,112.72747329854339,fasilitas_umum,,,,,,,park,,,,Taman
+Surya Residence Circle Park,,-7.424728730461682,112.75596559003833,fasilitas_umum,,,,,,,park,,,,Taman
+RFCGZ,,-7.347196654348646,112.74787316936707,fasilitas_umum,,,,,,,park,,,,Taman
+Bunderan Aloha GZ,,-7.373401790174027,112.72857069984322,fasilitas_umum,,,,,,,park,,,,Taman
+Taman Bukit Kismadani,,-7.442423392771064,112.72328252472293,fasilitas_umum,,,,,,,park,,,,Taman
+Lapangan Bola Sugihwaras,,-7.478651357059091,112.70464649600981,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+Blackstone Otomotif Superblok,,-7.358808763632223,112.81023121346789,fasilitas_umum,,,,,,,sports_centre,motor,,,Stadion
+Lapangan Bola Desa Sawocangkring,,-7.415230339858291,112.65304267808823,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+Lapangan Bola Dusun Lumbang,,-7.420374379151871,112.64866155476047,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+Taman Tanjung Puri,,-7.4525678095227095,112.74074943415849,fasilitas_umum,,,,,,,park,,,,Taman
+Tebel Soccer Field,,-7.405362915047755,112.73234684274291,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+Lapangan Bola Desa Becirongengor,,-7.413461431878958,112.6431201779366,fasilitas_umum,,,,,,,pitch,soccer,,,Lainnya
+Taman Bermain Amarylis,,-7.418885145331135,112.59021893799711,fasilitas_umum,,,,,,,playground,,,,Taman
+Tebel Timur Jogging Track,,-7.406912073690352,112.73699948566964,fasilitas_umum,,,,,,,park,,,,Taman
+Gerbang Tol Waru 1 dan Ramp,,-7.3456095,112.713037,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Waru Utama,,-7.3476986,112.7106095,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Waru Utama,,-7.3476568,112.7104795,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Waru 1 dan Ramp,,-7.3457414,112.7130044,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Sidoarjo,,-7.440446,112.6970548,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Porong,,-7.5073894,112.6993326,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Tambak Sumur,,-7.3441727,112.7760854,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Rungkut,,-7.3433059,112.7610903,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Gerbang Tol Berbek 1,,-7.3426805,112.7581048,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Rungkut,,-7.3425879,112.7505043,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Gerbang Tol Berbek 2,,-7.3431529,112.7523729,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Juanda,,-7.3577272,112.8049809,infrastruktur,,,,,,,,,,toll_booth,Bandara
+Gerbang Tol Tambak Sumur 1,,-7.3470283,112.7892575,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Tambak Sumur,,-7.3477177,112.7911109,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Taman,,-7.3466683,112.7234294,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Gerbang Tol Waru 5,,-7.3454466,112.7094854,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Waru,,-7.345829,112.7162383,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Gerbang Tol Waru 6,,-7.3414702,112.7125767,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Waru,,-7.3495245,112.7100589,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Waru,,-7.343202,112.7047037,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Taman,,-7.346357,112.7188079,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Gerbang Tol Waru 3,,-7.3471116,112.7112123,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+GT Gempol 4,,-7.5573468,112.7143981,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Gempol 1,,-7.5577559,112.7141151,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Waru 4,,-7.3439498,112.7111237,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Tambak Sumur 2,,-7.3462332,112.7839111,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Porong,,-7.5023635,112.6976262,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Gerbang Tol Waru 4A,,-7.3416938,112.7118543,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Waru 4B,,-7.3416427,112.7117766,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Waru 5,,-7.3454854,112.7094169,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Sidoarjo Exit Gate,,-7.4464282,112.6998567,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Sidoarjo Entry Gate,,-7.4460395,112.6991271,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Sidoarjo,,-7.446449,112.6972117,infrastruktur,,,motorway_junction,,,,,,,,Entry/Exit Tol
+Sidoarjo 2,,-7.4442756,112.6973911,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Waru 6,,-7.3414649,112.7125356,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Terminal 2 Bandara Juanda,,-7.3833042,112.7764426,infrastruktur,,,,,,,,,terminal,,Bandara
+Terminal 1 Bandara Juanda,,-7.3746748,112.7941457,infrastruktur,,,,,,,,,terminal,,Bandara
+Terminal 1A Juanda,,-7.3750566,112.7975255,infrastruktur,,,,,,,,,terminal,,Bandara
+Gerbang Tol Waru 1 dan Ramp,,-7.3456957,112.7125381,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Gerbang Tol Waru 1 dan Ramp,,-7.3456727,112.713492,infrastruktur,,,,,,,,,,toll_booth,Entry/Exit Tol
+Terminal 2,,-7.383237516687733,112.77604851143909,infrastruktur,,,,,,,,,terminal,,Terminal
+Terminal 1,,-7.375058262615627,112.79554848597923,infrastruktur,,,,,,,,,terminal,,Terminal
+Bandar Udara Internasional Juanda,,-7.379893077697866,112.78755462981005,infrastruktur,,,,,,,,,aerodrome,,Bandara
